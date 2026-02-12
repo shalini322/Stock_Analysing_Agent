@@ -1,0 +1,16 @@
+# --- Backend Requirements ---
+fastapi==0.110.0
+uvicorn==0.27.1
+langgraph==0.0.26
+langchain-groq==0.1.0
+langchain-ollama==0.0.1  # Optional, if you want to keep Ollama as a backup
+yfinance==0.2.37
+python-dotenv==1.0.1
+pydantic==2.6.3
+rich==13.7.1
+grandalf
+
+# --- Frontend Requirements ---
+streamlit==1.32.0
+requests==2.31.0
+pandas==2.2.1
